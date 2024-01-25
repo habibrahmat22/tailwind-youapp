@@ -1,0 +1,17 @@
+.bgRed {
+    background: yellow;
+}
+
+
+
+.btnRgb {
+    background: linear-gradient(134.86deg, #62cdcb 2.64%, #4599db 102.4%);
+    opacity: 0.3; 
+    width: 100%;
+    color: white;
+    transition: opacity 0.3s ease; 
+  }
+  
+  .btnRgb:hover {
+    opacity: 1; 
+  }

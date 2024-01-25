@@ -1,0 +1,13 @@
+.btnRgb {
+    background: linear-gradient(134.86deg, #62cdcb 2.64%, #4599db 102.4%);
+    opacity: 0.3; 
+    width: 100%;
+    color: white;
+    transition: opacity 0.3s ease, box-shadow 0.3s ease;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+  }
+  
+  .btnRgb:hover {
+    opacity: 1; 
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  }
